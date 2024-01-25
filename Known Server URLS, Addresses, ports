@@ -62,7 +62,7 @@ http://www.cs.cornell.edu/courses/cs431/2008sp/Lectures/public/lecture_2_11_08.p
 Suspected Vulnerable Software in the Game
 RSA BSAFE SSL-C or SSL-J Library may be present in the game (may also be back doored by the NSA) TOP Fucking KEK)
 
-SCE-RT/Medius >> Obviously encrypted with something. chances are RSA BSAFE and it can probably be assraped.
+SCE-RT/Medius >> RC4/RCQ Encryption with RSA 512-bit Keys
 See: http://www.eweek.com/security/rsa-bsafe-encryption-toolkits-offered-as-free-download
 https://www.cypherpunks.to/bsafeeay/
 https://www.theregister.co.uk/2001/09/14/ssl_toolkit_flaw_poses_risk/
@@ -86,3 +86,9 @@ Kill DNAS (1.4 Patch) -For Testing with a Legally Backed up Disc -- Possibly Dis
 Note: This may kill the DNASmc function that I think encrypts gamesaves
 2029bd90 03E00008
 2029bd94 00000000
+
+Syphon Filter Dark Mirror SVO URLS:
+http://syphonfilterdm-prod.svo.pdonline.scea.com:10070/SFO2PSP_SVML/?
+http://syphonfilterdm-prod.svo.pdonline.scea.com:10070/SFO2PSP_SVML/index.jsp
+http://syphonfilterdm-prod.svo.pdonline.scea.com:10070/SFO2PSP_SVML/account/Account_Login_.jsp
+https://syphonfilterdm-prod.svo.pdonline.scea.com:10079/SFO2PSP_SVML/account/Account_Login_Submit.jsp

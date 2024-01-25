@@ -1,7 +1,3 @@
-## Found at https://coderanch.com/t/274568/java -- Comparable to Some jsp pages found on socom
-
-
-
 <?xml version="1.0" encoding="UTF-8"?> 
 <SVML> 
 
